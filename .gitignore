@@ -2,3 +2,7 @@
 
 /configs/*.yaml
 !/configs/*.example.yaml
+
+/deployment/*.env
+!/deployment/*.example.yaml
+
